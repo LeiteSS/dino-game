@@ -1,0 +1,2 @@
+# Dino Game
+Quando não temos conexão com a *internet*, o *easter egg* do **Google Chrome** que surge é o jogo do Dinossauro pulando os cactos. Este é um clone do jogo do dinossauro usando **HTML**, **CSS** e **Javascript** somente,  
